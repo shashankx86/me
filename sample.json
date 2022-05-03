@@ -2,6 +2,7 @@
     "latest": {
         "author": "shahsankx86",
         "version" : 1.4,
+        "dl-web" : "https://github.com/",
         "dl-link" : "https://github.com/urllib3/urllib3/releases/download/1.26.9/urllib3-1.26.9-py2.py3-none-any.whl",
         "release-date" : "3/5/2022" 
       }
